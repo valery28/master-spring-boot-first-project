@@ -26,3 +26,9 @@ Para visualizar el estado de la aplicación se utilizaremos el endpoint health.
 2. Para que nos muestre a detalle la información del endpoint health en application.yaml activar los parametros necesarios.
 
 ![image](https://github.com/valery28/master-spring-boot-first-project/assets/19556398/8355ab5f-d287-4d58-892c-0b8bd8369cdd)
+
+3. Al consumir el endopoint health podemos verficar a detalle como se encuentra el microservicio.
+
+![image](https://github.com/valery28/master-spring-boot-first-project/assets/19556398/bd678ed5-6afe-4ae8-a893-f0fe85e8fa1e)
+
+
